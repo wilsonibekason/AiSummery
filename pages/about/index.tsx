@@ -16,6 +16,9 @@ const About: React.FC = () => {
           Hello World, and welcome to the About Section of the application
         </h1>
       </main>{" "}
+      <div className="text-md text-slate-900">
+        Hello, My name is Wilson Ibekason, And i am a software advocate
+      </div>
     </div>
   );
 };
